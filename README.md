@@ -52,7 +52,7 @@ Jupyter notebook, Python(NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, SciPy
 
    Rmsle Value:    0.8876469542289628
 
-     rmsle value should be close to 0 for an efficient model but her it's not so lets try other          models
+     rmsle value should be close to 0 for an efficient model but her it's not so lets try other models.
  
 2. Decision tree:
    
